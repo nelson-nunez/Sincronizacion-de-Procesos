@@ -1,0 +1,16 @@
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\Hilos.exe
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\Hilos.deps.json
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\Hilos.runtimeconfig.json
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\Hilos.runtimeconfig.dev.json
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\Hilos.dll
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\ref\Hilos.dll
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\Hilos.pdb
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\Hilos.csprojAssemblyReference.cache
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\Hilos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\Hilos.AssemblyInfoInputs.cache
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\Hilos.AssemblyInfo.cs
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\Hilos.csproj.CoreCompileInputs.cache
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\Hilos.dll
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\ref\Hilos.dll
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\Hilos.pdb
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\Hilos.genruntimeconfig.cache

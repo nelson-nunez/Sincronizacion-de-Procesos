@@ -1,0 +1,48 @@
+F:\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.exe
+F:\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.deps.json
+F:\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.runtimeconfig.json
+F:\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.runtimeconfig.dev.json
+F:\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.dll
+F:\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\ref\SystemCallsAndProcess.dll
+F:\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.pdb
+F:\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.csprojAssemblyReference.cache
+F:\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.GeneratedMSBuildEditorConfig.editorconfig
+F:\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.AssemblyInfoInputs.cache
+F:\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.AssemblyInfo.cs
+F:\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.csproj.CoreCompileInputs.cache
+F:\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.dll
+F:\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\ref\SystemCallsAndProcess.dll
+F:\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.pdb
+F:\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.genruntimeconfig.cache
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.exe
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.deps.json
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.runtimeconfig.json
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.runtimeconfig.dev.json
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.dll
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\ref\SystemCallsAndProcess.dll
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.pdb
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.csprojAssemblyReference.cache
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.AssemblyInfoInputs.cache
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.AssemblyInfo.cs
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.csproj.CoreCompileInputs.cache
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.dll
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\ref\SystemCallsAndProcess.dll
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.pdb
+F:\Dropbox\03 - Sistemas Operativos\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.genruntimeconfig.cache
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.exe
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.deps.json
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.runtimeconfig.json
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.runtimeconfig.dev.json
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.dll
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\ref\SystemCallsAndProcess.dll
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\bin\Debug\net5.0\SystemCallsAndProcess.pdb
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.csprojAssemblyReference.cache
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.AssemblyInfoInputs.cache
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.AssemblyInfo.cs
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.csproj.CoreCompileInputs.cache
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.dll
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\ref\SystemCallsAndProcess.dll
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.pdb
+F:\Dropbox\SystemCallsAndProcess\SystemCallsAndProcess\obj\Debug\net5.0\SystemCallsAndProcess.genruntimeconfig.cache
